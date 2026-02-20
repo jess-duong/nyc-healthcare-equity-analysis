@@ -102,6 +102,7 @@ The most vulnerable communities are geographically concentrated. Cluster 3 (dark
 ## Author
 
 **Jessica Duong**
+
 Data Analyst | [LinkedIn](https://www.linkedin.com/in/jess-duong/) | [Portfolio](https://jess-duong.github.io/) | duong.t.jess@gmail.com
 
 ---
