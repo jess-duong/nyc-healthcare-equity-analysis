@@ -61,6 +61,7 @@ print(f"\nTotal combined rows: {len(places_all)}")
 print(f"Years covered: {sorted(places_all['Year'].unique())}")
 print(f"Unique census tracts: {places_all['LocationName'].nunique()}")
 ```
+Note: CDC PLACES file names reflect the release year (2020–2024), not the measurement year. The health outcome data within each file covers 2018–2022, which is the actual analysis period referenced throughout this project.
 
 ---
 
